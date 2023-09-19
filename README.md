@@ -1,2 +1,2 @@
-# emoji
-Collect emoji emojis from a wide range of platforms
+# emoji表情
+收集各大平台的emoji表情，（持续更新中...）
